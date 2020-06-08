@@ -2,7 +2,7 @@
 
 This project was completed in 2018 and was primarily to gain knowledge in control systems and sensor feedback loops. The system uses an array of LDRs (Light Dependent Resistors) to determine the Sun's position and shifts the panel accordingly.
 
-For more information click [here](https://omanavekar.wixsite.com/ommakes/sol) to access Sol's page on [omlabs.me](www.omlabs.me)
+For more information click [here](https://omanavekar.wixsite.com/ommakes/sol) to access Sol's page on [omlabs.me](https://omanavekar.wixsite.com/ommakes)
 
 ## Components
 | Component | Quantity | Description |
