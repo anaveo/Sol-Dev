@@ -8,7 +8,7 @@ For more information click [here](https://omanavekar.wixsite.com/ommakes/sol) to
 | Component | Quantity | Description |
 | ------ | ------ | ------ |
 | Arduino Nano | 1 | Microcontroller Unit |
-| Servo | 2 | Atuator |
+| Servo | 2 | Actuator |
 | 1k Resistor | 3 | Voltage divider circuitr |
 | Light Dependant Resistor | 3 | Light sensor
 | LED | 4 | Visual Feedback |
